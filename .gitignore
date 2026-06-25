@@ -1,5 +1,38 @@
 # Python
 venv/
+docling_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Dados gerados
+data/
+*.db
+*.sqlite
+chromadb/
+*.log
+
+# Arquivos de ambiente
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db# Python
+venv/
 __pycache__/
 *.pyc
 *.pyo
